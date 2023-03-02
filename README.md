@@ -1,5 +1,5 @@
 # Serverless-Python-Code-Editor-
-A python web code editor that can executes python code without the need of a backend server to process the code from the client editor.
+A python web code editor that can execute python code without the need of a backend server to process the code from the client editor.
 The execution of the code is done at the client's machine but there is no need to install python thanks to WebAssembly.
 
 Tools used:
